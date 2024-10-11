@@ -1,13 +1,24 @@
+Signal-And-System:
+  - PKUFlyingPig/UCB-EE120
 Fundamentals-of-Computer-Systems:
+  - csci0300/cs300-lectures
   - csci0300/cs300-s23-projects
+  - csci0300/cs300-s24-section
+  - csci0300/cs300-s24-devenv
+  - csci0300/cs300-s24-labs
 Data-Structure-and-Algorithm:
   - PKUFlyingPig/Princeton-Algorithm
+Programming-Principles:
+  - kaist-cp/cs220
 Computer-Network:
-  # - PKUFlyingPig/CS144-Computer-Network
   - PKUFlyingPig/Computer-Network-A-Top-Down-Approach
   - PKUFlyingPig/CS144-Computer-Network
 Operating-System:
   - PKUFlyingPig/MIT6.S081-2020fall
+Computer-Architecture:
+  - PKUFlyingPig/CS61C-summer20
+  - PKUFlyingPig/CS61C-labs
+  - kaist-cp/cs492-uarch
 Compilers:
   - PKUFlyingPig/CS143-compiler
 Database-System:
@@ -15,6 +26,7 @@ Database-System:
 Parallel-Computing:
   - PKUFlyingPig/CS149-parallel-computing
   - PKUFlyingPig/CS179
+  - kaist-cp/cs431
 Distributed-System:
   - PKUFlyingPig/MIT6.824
 Software-Engineering:
@@ -25,5 +37,7 @@ Software-Security:
 Computer-Security:
   - PKUFlyingPig/MIT6.1600
   - cs161-staff/textbook
+Machine-Learning:
+  - PKUFlyingPig/CS229
 Deep-Learning-System:
   - PKUFlyingPig/CMU10-714
