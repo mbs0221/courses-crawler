@@ -1,0 +1,29 @@
+Fundamentals-of-Computer-Systems:
+  - csci0300/cs300-s23-projects
+Data-Structure-and-Algorithm:
+  - PKUFlyingPig/Princeton-Algorithm
+Computer-Network:
+  # - PKUFlyingPig/CS144-Computer-Network
+  - PKUFlyingPig/Computer-Network-A-Top-Down-Approach
+  - PKUFlyingPig/CS144-Computer-Network
+Operating-System:
+  - PKUFlyingPig/MIT6.S081-2020fall
+Compilers:
+  - PKUFlyingPig/CS143-compiler
+Database-System:
+  - PKUFlyingPig/CS186
+Parallel-Computing:
+  - PKUFlyingPig/CS149-parallel-computing
+  - PKUFlyingPig/CS179
+Distributed-System:
+  - PKUFlyingPig/MIT6.824
+Software-Engineering:
+  - PKUFlyingPig/CS169-Software-Engineering
+Software-Security:
+  - HUSTSeclab/software-security-dojo
+  - PKUFlyingPig/CS110L
+Computer-Security:
+  - PKUFlyingPig/MIT6.1600
+  - cs161-staff/textbook
+Deep-Learning-System:
+  - PKUFlyingPig/CMU10-714
