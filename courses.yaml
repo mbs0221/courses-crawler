@@ -13,8 +13,10 @@ Programming-Principles:
 Computer-Network:
   - PKUFlyingPig/Computer-Network-A-Top-Down-Approach
   - PKUFlyingPig/CS144-Computer-Network
+  - huihongxiao/MIT6.829
 Operating-System:
   - PKUFlyingPig/MIT6.S081-2020fall
+  - huihongxiao/MIT6.S081
 Computer-Architecture:
   - PKUFlyingPig/CS61C-summer20
   - PKUFlyingPig/CS61C-labs
@@ -26,6 +28,7 @@ Database-System:
 Parallel-Computing:
   - PKUFlyingPig/CS149-parallel-computing
   - PKUFlyingPig/CS179
+  - huihongxiao/MIT6.824
   - kaist-cp/cs431
 Distributed-System:
   - PKUFlyingPig/MIT6.824
